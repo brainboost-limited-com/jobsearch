@@ -1,0 +1,275 @@
+{"form_values": {"1": {"Company Name": "BRAINBOOST LTD.", "frequency": 0}, "2": {"First name": "Pablo Tomas", "frequency": 0}, "3": {"Last name": "Borda", "frequency": 0}, "4": {"Preferred Name": "Pablo", "frequency": 0}, "5": {"Email to apply for jobs": "bordapablotomas@gmail.com", "frequency": 0}, "6": {"Password": "$yqbG1qnCt!Y8G^wcsdT", "frequency": 0}, "7": {"VAT Number": "IE3435462UH", "frequency": 0}, "8": {"Company number": "589489", "frequency": 0}, "9": {"CRO": "589489", "frequency": 0}, "10": {"Address": "PALMERSTON HALL, DOMINICK STREET UPPER", "frequency": 0}, "11": {"Postal code": "D07 YW50", "frequency": 0}, "12": {"City": "Dublin", "frequency": 0}, "13": {"District": "Dublin", "frequency": 0}, "14": {"Linkedin Profile": "https://www.linkedin.com/in/pabloborda/", "frequency": 0}, "15": {"Github": "https://github.com/PabloBorda", "frequency": 0}, "16": {"Portfolio website": "https://goldenthinker.com", "frequency": 0}, "17": {"email for job search": "bordapablotomas@gmail.com", "frequency": 0}, "18": {"Cover letter for financial job USA": "Dear Recruiter, Hello, I am a Software Engineer, Architect, Business Analyst. I have 18+ years of work experience of which almost 13 are in the financial sector. I am Argentinian, Italian and Irish citizen. I am staying in Colombia for family reasons and I am looking to relocate relatively close to them. I am interested in continue to work for the financial sector. I have experience in home bankings development, payment methods, and I have worked at PayPal in Dublin for 7 years in heavily regulated environments as a Developer Support Engineer and Integrations Engineer. I also have experience in trading automation and cryptocurrencies. You can hire me in any convenient way or as a contractor using my own Irish company. Feel free to book me a slot for an interview at : https://calendly.com/subjectivetechnologies/30min .Kind Regards Pablo Tomas Borda", "frequency": 0}, "19": {"Cover letter for normal job USA": "Dear Recruiter Hello, I am a Software Engineer, Architect, Business Analyst. I have 18+ years of work experience. I have my own Irish Limited company and I have worked at PayPal during 7 years in Dublin, Ireland. I am Argentinian, Italian and Irish citizen. I am at the moment staying in Colombia for family reasons and I am looking to relocate relatively closer to them. I am looking for work in Miami, Panama, Cayman Islands area. Feel free to set up an interview booking a slot at: https://calendly.com/subjectivetechnologies/30min Kind Regards Pablo Tomas Borda", "frequency": 0}, "20": {"CV": "Pablo Tomas Borda
+
+Dublin, Ireland D07YW50
++16503186295
+bordapablotomas@gmail.com
+
+Executive Summary
+
+As a Self-Motivated Software Engineer with
+
+18 years of commercial experience, I have developed highly skilled expertise in multiple technologies and software architecture. Throughout my career, I have gained experience in software development from scratch, integrations, QA, business analysis, software architecture, and customer-facing developer support. These broad-based skills make me a perfect fit for technical leadership roles. I am highly effective at working with professionals from different areas and thrive in a collaborative environment. My tenacity and goal-driven mindset, along with my solid background in software design theory, enable me to effectively prioritize and assume technical positions. In addition to my software development experience, I have also gained valuable experience in the financial sector, marketing, and technology, giving me a well-rounded perspective.
+
+Skills
+
+Authlogic,Object Constraint Language OCL,OCL Object Constraint Language,Qualcomm Brew,tivoli,Active Merchant,Ethereum Smart Contracts,Heroku,Matplotlib,Objective C,QNX,Symphony,Blockchain,Corel Draw,CouchDB,dbase,Facebook Graph,Hadoop,Job Scheduling Console,Linux Kernel,MetaHuman,OcamL,Perforce,Spring MVC,Three.js,Visual Basic,VMWare,ZenDesk,3D Studio,3D Studio Max,ActiveRecord,ANT,Assembly X86,Big Data,Blender,Character Creator 4,Cinema 4D,CoinBase,DataDog,dwr,Filmora,GeoJSON,Google Cloud,Gradle,JMeter,JSon,kibana,MonoDevelop,NumPy,Rake,redmine,SameTime,Splunk,Squeak SMalltalk,WebSockets API,.NET,Bash,C#,curl,DJango,dreamweaver,Elastic Search,GNU GCC,IBM AIX,IBM DB2,IntelliJ Idea,Kraken,mechanize,Microsoft Azure,NodeJS,OpenGL,Oracle Database,QA Load and Performance,SalesForce,SFTP,SSH,Webrick,Facebook Laser targetted Ads,browserify,cactus,Digital Ocean,FreeBSD,Jira,junit,Magento,Maven,MongoDB,PowerShell,Rational Software Architect,Rational Software Architect,Rubymine,semrush,Semrush,xml,z-Linux,Pharmaceutical Packaging,Apache Derby,CoinBase,Computer Vision,Divi,Eclipse,Git,GitHub,GitLab,GO Pro,Groovy on Grails,IBM OS2,Javascript,JSP,Microsoft Office,Netbeans,nmap,Open Office,requirejs,SDL Simple Direct Media Layer,Sublime,TCP Sockets,UDP Sockets,Web Services,WebKing,XLST,XMPP,360 Videos,Adobe Character Animator,Adobe Photoshop,Android,Aws Linux 2,Binance API,Eclipse plug-in,Haskell,Hibernate,IBM Z-LINUX,J2EE,J2ME Java 2 Mobile Edition,Java Servlets,JBoss,KDE,MakeHuman,OCR,OPENAI APIs,Photoshop,PlumVoice,Postgres SQL,Retail Marketing,SEO,Slackware Linux,Suse Linux,Telegram BOTs,Telethon,Unix Sockets,Unreal Engine,WAP,EJB Enterprise Java Beans,JSP Java Server Pages,AWS Amazon Web Services,Chrome Extensions,Ecommerce,IVR Systems,macos,MySql,Oracle Database,Subversion,TomCat,Trademarks,UPSTO,VoiceXML,Web Crawling,Java Applets,Agile,Agile Planning Sessions,Apache HTTP Server,Backlink strategy,Borland Delphi,BrainTree,Branding,CherryPy,CSS,Fedora,Filezilla,FreePascal,FTP,Gentoo Linux,GNome,HTML,Instagram Ads,JQUERY,KDevelop,keyword planning,Lotus Notes,Lotus Suite,MariaDB,Marketing Automation,Microsoft Windows,Ms-Dos,NoSQL,Oracle Right Now,PayPal APIs,PHP,Prestashop,Product Design,Red Hat Linux,Scrum,Shopify,Sinatra,SmallTalk Cincom,SQL,Stripe,tiles,Turbo C,Turbo Pascal,Ubuntu Linux,UML Unified Modelling Language,Use Cases,Web,Window Maker,Wordpress,XP Programming,C++,Ruby on Rails,Web UI,TradingAutomation,Payments,Selenium,Java,Python,Ruby,C
+I am fluent in a variety of programming languages, including Java, Python, Ruby, JavaScript, and PHP. Additionally, I have a solid knowledge of different programming paradigms, including Object-Oriented Programming (OOP), Functional Programming (FP), and Aspect-Oriented Programming (AOP). I am also experienced in Model-Driven Development, Test-Driven-Development (TDD), Model-Driven Architectures (MDA), Software Architecture and Design Patterns, and UML. I am wellversed in working in Agile, XP, and Scrum environments.
+
+I have extensive experience working with a variety of general-purpose, web, mobile, and database technologies. For more information on my experience and skills. With my vast commercial experience as an architect and business analyst, I am skilled in obtaining specifications from stakeholders, generating code mockups, and planning and tasking. These skills make me a suitable Tech-Lead.
+
+Experience
+
+February 2021 - Current
+BRAINBOOST LTD - Dublin, Ireland
+Product Design, Branding Manager
+
+Management and collaboration in eCommerce development WordPress and Shopify, payment gateways.
+Mid-Gondolas - FSDUs - Counter Display Unit design
+Management and collaboration in artwork design team.
+Development of different sales channels to supply retail stores and pharmacies. B2B (Boots pharmacies, United Drug, Sam McCauleys, pharmacies)
+Accounting and reconciliation automation.
+Social media advertising
+Development of Marketing Automation tools (crawlers, robots, Ruby, Sinatra)
+SEO Campaign Coordination and competitor targeting back-linking strategy
+Ruby Instagram location posting automation tool that posts in locations with certain patterns to attract buyers who are close to physical stores to buy a product.
+Trademark Registration GOLDEN THINKER Â® in the United States of America.
+Manufacture chain coordination
+
+May 2014 - Current
+BrainBoost Ltd. - Dublin, Ireland, IRELAND
+Senior Software Python Developer
+
+Trading Automation
+My work with Binance API, CoinBase, and Python involved implementing scripts and robots for trading, using Rest API, WebSockets API, and real-time market data streams. I managed precision and filters, experimented with different types of APIs, and developed a scalable architecture for other exchanges.
+I used Telegram APIs to extract and analyze text messages for potential trading signals, and Matplotlib for data visualization. I also utilized web crawling techniques for sentiment analysis.
+I cross-referenced market data, Telegram signals, and cryptocurrency sentiment for automatic portfolio management and sequenced real-time market data for trend analysis
+
+November 2022 - January 2023
+Digitzs solutions inc as contractor - San Francisco, United States
+Brainboost Ltd. - Dublin Ireland - Company Owner
+
+DIGITZS SOLUTIONS INC White label Payments as a Service supplier for payments platforms., Backend and UI. Coding new features and defect fixing.
+Technologies I used_ Aws, React, Python, Nodejs, Mariadb, Aws Lambda, Aws Codecommit, Aws Codebuild, Aws Ec2, Aws Iam, Aws S3, Aws Cloud Shell, Aws Sns, Aws Cloudwatch, Aws Document Db, Vs Code, Gitlab, Gitpod, Datadog. Semrush Keywods Seo Planning.,
+
+June 2014 - February 2021
+PayPal - Dublin, Ireland
+JAVA SENIOR SOFTWARE ENGINEER
+
+As a Technical Support Engineer at PayPal, I was responsible for providing expert and customer-facing support to software developers who use PayPal APIs and integrations in both Spanish and English markets. This involved helping and supporting merchants during the technology onboarding process and troubleshooting any issues that arose.
+I worked with a variety of companies, both small and large, and interacted with other departments internally and externally to ensure smooth communication and organization. I also helped to organize meetings when necessary.
+As part of my role, I was responsible for monitoring PayPal APIs endpoints globally on a daily basis and during on-call weekends monthly. This meant providing pro-active support in case of any disasters, dealing with merchants, internal emergency troubleshooting, and technical account managers.
+One of my strengths was dealing with merchants who had difficulty receiving payments and did not understand the technical aspects of the process. I was able to troubleshoot and open bugs for developers, pull logs, and analyze information from multiple sources to resolve issues.
+I was proficient in using most PayPal internal tools and was able to automate processes and build new tools to make the work more efficient and less tedious for the team.
+In addition to my technical skills, I attended various training and certification programs in software security, money laundering, business ethics, soft skills, and customer service. As a result of my hard work and dedication, I received numerous Bravo awards from my colleagues for collaboration and innovation.
+I also had the opportunity to participate in company hackathons, where I developed software for charities. My team and I won the Exceeded Design Expectations award for creating a mobile app with a stunning user interface that we showcased in front of an important audience.
+To further develop my skills, I attended technology training in Braintree, JavaScript, JQuery, NodeJS, and PayPal APIs and tools. I also proactively created and presented a working software mockup for internal use in front of an audience.
+Overall, my experience working at PayPal allowed me to develop a wide range of technical and soft skills, and I am proud of my accomplishments during my time there.
+
+January 2012 - December 2014
+HEWLETT PACKARD - Buenos Aires, Argentina
+SENIOR JAVA SOFTWARE ENGINEER
+
+Support and maintenance of existing applications for Nextel (NII) the main mobile phone company in Argentina at the moment.
+Java development of the User Administration portal, using struts, seam framework, j2ee, oracle, db2,apache Tomcat, Apache Derby, Oracle Databasem,DB2, Apache Derby
+
+January 2011 - January 2013
+Freelancer - Buenos Aires, Argentina
+Freelancer
+Freelancing
+for different small startups like_
+
+Truvely_ Ruby on Rails,Active Record,MySQL,HTML,CSS
+Movilogic (For OSDE (Med. Insurance) and Everis Consultancy Services)JAVA,J2EE,JQUERY,JAVASCRIPT,Gombu,DB2.
+51 Inc_ E-Commerce,Ruby on Rails, MySql, Payment Methods, ActiveMerchant, Javascript, JQuery,MySql
+Crawling Jurisprudence_ Using Python, Mechanize,PHP, built a web crawler to obtain previous Judicial veredicts for a layer firm.
+Gombu_ J2ME, Java application that took a picture of a person and it will return its corresponding Facebook profile.
+Buffalo Wild Wings_ An IVR promotion campaign in which the customer selected a character,input name, input a friend phone number and generated a phone call with the voice of the selected character to his friend.PHP, mysql, linux, Plum Voice IVR
+
+July 2011 - January 2012
+INTERNATIONAL BUSINESS MACHINES - Buenos Aires, Argentina
+Business Analyst for Walmart
+
+Capturing stakeholder specs for Walmart software
+Coordination in between Walmart, stakeholders, IBM, and individual smaller software supplier companies for the assessment of multiple software features, Self Checkout machines, Retail, purchasing department., Compliance, Legal.
+
+January 2010 - January 2012
+Argenport - Buenos Aires, Argentina
+Founder
+Founded Argenport, an imports and exports company in Argentina.
+
+Crawled marketplaces and developed tool to decide what to import in order to sell. (Python Mechanize Linux MySql)
+Mobile Apps to buy and sell using geolocation (Like facebook marketplace but years before it existed). Java,Android,Ruby,Mysql.
+Mobile App to order food (Many years before Uber, Just Eat, existed) (WAP technology older phones)
+Pricing tools Ruby.
+Investment plan generator.
+
+July 2009 - September 2011
+IBM - Buenos Aires, Argentina
+PRODUCTION SUPPORT ENGINEER
+
+Working as a Production Support Developer for the Blue Horizon project that was a system to build your own computer by selecting hardware parts globally available in different languages.
+Defect fixing, Java, J2EE, Linux, DB2,
+Deployment, build scripts daily maintenance tasks that we ended up automating.
+Build new scripts.
+IBM tools Lotus, SameTime, IBM WebSphere, DB2, IBM AIX, IBMs JAVA Technology
+Provide training to other members of the team about web tools like WebKing.
+IBM Topcoder Liquid program
+
+January 2008 - January 2011
+Whoop Mobile - Buenos Aires, Argentina
+Software Engineer and Architect
+Whoop Mobile
+Sofware Architect and Developer, mobile publishing platform Android,J2ME. Java,J2ME,C# .NET WINDOWS MOBILE,WAP,PHP,PYTHON for a mobile platform able to run its own apps in multiple mobile technologies. I was the first employee and also managed the java team of 5 people. The company grew up to 20 employees and they continued using my initial designs impacting in the other technologies.
+
+January 2007 - January 2008
+Globant for Google - Mountain View, California, United States
+QA Load and Performance Engineer
+
+Globant/Google (Mountain View) QA Engineer Load & Performance Eng. Java,JMeter,Python, at Google.Checkout by Google - CBG
+
+January 2003 - January 2008
+LIFIA - La Plata, Argentina, Argentina
+Computer Science Intern Research Assistant
+LIFIA (La Plata, Argentina)
+Computer Science Intern Research Assistant
+I won a paid grant at the University of La Plata Computer Science Laboratory.
+By myself I built a syntax checker generator that generated Java Object Oriented code that evaluated a string given a particular regular expression. Java Code that generates Java Code. I worked in an Eclipse plugin called e-Platero for UML supported by IBM. Research on Model-Driven-Architectures, Model-Driven-Development, OCL Object Constraint Language development, Rational Architect Tools
+
+January 2006 - January 2007
+Technisys - Buenos Aires, Argentina
+Junior Java Developer
+Technisys (Financial Sector)
+(Argentina)
+Junior Java Developer Java,J2EE, Hibernate,Struts,Spring MVC,for Home Banking development. Banco de Costa Rica.
+
+BRAINBOOST LTD - DUBLIN
+SR. CONSULTANT SOFTWARE ENGINEER
+
+PYTHON - NODEJS
+DIGITZS SOLUTIONS INC AS CONTRACTOR - SAN
+FRANCI SCO USA
+DIGITZS SOLUTIONS INC White label Payments as a Service supplier
+for payments platforms., Backend and UI
+Coding new features and
+defect fixing
+Technologies I used_ Aws, React, Python, Nodejs, Mariadb, Aws
+Lambda, Aws Codecommit, Aws Codebuild, Aws Ec2, Aws Iam, Aws S3,
+Aws Cloud Shell, Aws Sns, Aws Cloudwatch, Aws Document Db, Vs
+Code, Gitlab, Gitpod, Datadog
+Semrush Keywods Seo Planning.,
+Management and collaboration in eCommerce development WordPress and
+Shopify, payment gateways
+Mid-Gondolas - FSDUs - Counter Display Unit design
+Management and collaboration in artwork design team
+Development of different sales channels to supply retail stores and
+pharmacies
+B2B (Boots pharmacies, United Drug, Sam McCauleys,
+pharmacies)
+Accounting and reconciliation automation
+Social media advertising
+Development of Marketing Automation tools (crawlers, robots, Ruby,
+Sinatra)
+SEO Campaign Coordination and competitor targeting back-linking
+strategy
+Ruby Instagram location posting automation tool that posts in
+locations with certain patterns to attract buyers who are close to
+physical stores to buy a product
+Trademark Registration GOLDEN THINKER in the United States of
+America
+Manufacture chain coordination
+My work with Binance API, CoinBase, and Python involved implementing
+scripts and robots for trading, using Rest API, WebSockets API, and
+real-time market data streams
+I managed precision and filters,
+experimented with different types of APIs, and developed a scalable
+architecture for other exchanges
+I used Telegram APIs to extract and analyze text messages for
+potential trading signals, and Matplotlib for data visualization
+I
+also utilized web crawling techniques for sentiment analysis
+I cross-referenced market data, Telegram signals, and cryptocurrency
+sentiment for automatic portfolio management and sequenced real-time
+market data for trend analysis
+
+*	BRAINBOOST LTD - Dublin, Ireland
+		Software Inventor - Patent Engineer
+		BRAINBOOST LTD. - subjective technologies - UPSTO. UNITED STATES PATENT AND TRADEMARK OFFICE - Patentarea.com
+		Software inventor - patent engineer
+			Subjective technologies mission_ democratize intelligenCe promoting inclusion in society
+
+		COMPUTER SCIENCE RESEARCH - SENIOR PYTHON DEVELOPER
+		SOFTWARE PATENT_ COMPUTER IMPLEMENTED ARTIFICIAL COGNITIVE FUNCTIONING SYSTEM
+	which now I call_
+
+		The first of its kind subjective artificial intelligence.Zero input technology.
+	technology that autocompletes your virtual and physical reality
+
+From scratch I Worked in the product development mockup for the implementation of a Computer-Implemented artificial Cognitive Functioning System. The patent relates to a novel approach towards software design and merges 3 existing concepts that were separated_ Computer Vision, Augmented Reality, and Artificial Intelligence.
+Current technology creates a relationship between user  technology in which the user always requests things by providing an INPUT.
+I observe the whole current ecosystem and all software and technology is designed from a third-person perspective, even the smartest chat bots are still what I called Legacy Third-Person technology, technology that is hungry for your input at all times and does not care about your comfort.
+Current third-person technology makes life simpler in some aspects but it does not become part of yourself and you end up working for the technology rather than the technology for you.
+With this unique subjective approach towards technology design we have a framework to improve our own intelligence up to the available computer power.
+This subjective radical change in the design of technology enable all of us (including people with cognitive disabilities) to merge with artificial intelligence with no need for brain implants and using current available technology.
+FILED MAY 10 , 2021 , UNDER NUMBER US63/186,229 - NON-PROVISIONAL APPLICATION 17675691
+
+Education and Training
+
+University of La Plata La Plata, Buenos, Aires, Argentina
+Computer Science
+
+Accomplishments
+
+I was number 10 out of 200 participants in a programming contest in Argentina.
+I won a paid grant at the University of La Plata Computer Science Laboratory. By myself I built a syntax checker generator that generated Java Object Oriented code that evaluated a string given a particular regular expression. Java Code that generates Java Code.
+Participated in PayPals Hackaton obtaining the top award Exceeded Design Expectations Award, which was the best award by developing a mobile APP for charity. | 2019
+Registered Trademark GOLDEN THINKER Â®
+Designed and Produced by myself from scratch a Food Supplement product for mental performance and introduced it and made it available at Boots, Sam Mc Cauleys pharmacies and United Drug , Ireland nationwide.
+
+Certifications
+
+BORDA
+CITIZENSHIPS
+ARGENTINIAN
+ITALIAN
+IRISH
+BOOK
+INTERVIEW
+NOW
+PABLOTOMASBORDA@GMAIL.COM
+DOMINICKSTREET
+UPPER,DUBLIN, D 0 7
++ 3 53899506087 HTTPS_//LINKEDIN.COM/IN
+/PABLOBORDA/+ 1 6503186295
+Computer Science
+University of La
+Plata in
+Argentina -
+Licentiate
+Degree
+Availability_ Immediate
+Visa_Not Required
+
+Experience Snapshot
+
+Authlogic,Object Constraint Language OCL,OCL Object Constraint Language,Qualcomm Brew,tivoli,Active Merchant,Ethereum Smart Contracts,Heroku,Matplotlib,Objective C,QNX,Symphony,Blockchain,Corel Draw,CouchDB,dbase,Facebook Graph,Hadoop,Job Scheduling Console,Linux Kernel,MetaHuman,OcamL,Perforce,Spring MVC,Three.js,Visual Basic,VMWare,ZenDesk,3D Studio,3D Studio Max,ActiveRecord,ANT,Assembly X86,Big Data,Blender,Character Creator 4,Cinema 4D,CoinBase,DataDog,dwr,Filmora,GeoJSON,Google Cloud,Gradle,JMeter,JSon,kibana,MonoDevelop,NumPy,Rake,redmine,SameTime,Splunk,Squeak SMalltalk,WebSockets API,.NET,Bash,C#,curl,DJango,dreamweaver,Elastic Search,GNU GCC,IBM AIX,IBM DB2,IntelliJ Idea,Kraken,mechanize,Microsoft Azure,NodeJS,OpenGL,Oracle Database,QA Load and Performance,SalesForce,SFTP,SSH,Webrick,Facebook Laser targetted Ads,browserify,cactus,Digital Ocean,FreeBSD,Jira,junit,Magento,Maven,MongoDB,PowerShell,Rational Software Architect,Rational Software Architect,Rubymine,semrush,Semrush,xml,z-Linux,Pharmaceutical Packaging,Apache Derby,CoinBase,Computer Vision,Divi,Eclipse,Git,GitHub,GitLab,GO Pro,Groovy on Grails,IBM OS2,Javascript,JSP,Microsoft Office,Netbeans,nmap,Open Office,requirejs,SDL Simple Direct Media Layer,Sublime,TCP Sockets,UDP Sockets,Web Services,WebKing,XLST,XMPP,360 Videos,Adobe Character Animator,Adobe Photoshop,Android,Aws Linux 2,Binance API,Eclipse plug-in,Haskell,Hibernate,IBM Z-LINUX,J2EE,J2ME Java 2 Mobile Edition,Java Servlets,JBoss,KDE,MakeHuman,OCR,OPENAI APIs,Photoshop,PlumVoice,Postgres SQL,Retail Marketing,SEO,Slackware Linux,Suse Linux,Telegram BOTs,Telethon,Unix Sockets,Unreal Engine,WAP,EJB Enterprise Java Beans,JSP Java Server Pages,AWS Amazon Web Services,Chrome Extensions,Ecommerce,IVR Systems,macos,MySql,Oracle Database,Subversion,TomCat,Trademarks,UPSTO,VoiceXML,Web Crawling,Java Applets,Agile,Agile Planning Sessions,Apache HTTP Server,Backlink strategy,Borland Delphi,BrainTree,Branding,CherryPy,CSS,Fedora,Filezilla,FreePascal,FTP,Gentoo Linux,GNome,HTML,Instagram Ads,JQUERY,KDevelop,keyword planning,Lotus Notes,Lotus Suite,MariaDB,Marketing Automation,Microsoft Windows,Ms-Dos,NoSQL,Oracle Right Now,PayPal APIs,PHP,Prestashop,Product Design,Red Hat Linux,Scrum,Shopify,Sinatra,SmallTalk Cincom,SQL,Stripe,tiles,Turbo C,Turbo Pascal,Ubuntu Linux,UML Unified Modelling Language,Use Cases,Web,Window Maker,Wordpress,XP Programming,C++,Ruby on Rails,Web UI,TradingAutomation,Payments,Selenium,Java,Python,Ruby,C
+Additional Information
+
+Licenses and Technology Certifications
+
+*	PayPal trainnings
+		Business Ethics
+		Information Security and Privacy
+		Compliance Training
+*	Hardvard Business
+		Career Management
+		Delegating Responsabilities
+		Sun Microsystems
+		Sun Certified Java Developer Sun Microsystems
+*	Oracle
+		Oracle Certified Associate - Oracle
+*	LIFIA TRAINNINGS
+		UML - Unified Model Language Certification by LIFIA
+		Borland Delphi - LIFIA University of La Plata
+		LIFIAÂ´s 6 month training Certification on Java, J2EE, technologies twice week
+		Vancouver Canada
+		TOEIC - Languages Across Borders - Vancouver, British Columbia Canada", "frequency": 0}, "21": {"Company website": "https://goldenthinker.com", "frequency": 0}, "22": {"Phone": "+16503186295", "frequency": 0}, "23": {"Mobile": "+16503186295", "frequency": 0}, "24": {"site": "https://goldenthinker.com", "frequency": 0}, "25": {"skype": "brainboost@brainboost.ie", "frequency": 0}}}
