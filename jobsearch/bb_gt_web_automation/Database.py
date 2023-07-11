@@ -3,7 +3,7 @@ from tinydb import TinyDB
 class Database:
     
     def __init__(self) -> None:
-        self.db = TinyDB('bb_gt_web_automation/database/db.json')
+        self.db = TinyDB('jobsearch/bb_gt_web_automation/database/db.json')
 
 
     def get_job_boards_from_db(self):
@@ -19,3 +19,5 @@ class Database:
         # Retrieve all records as Python dictionaries
         records = form_values_table.all()
         return records
+    
+    

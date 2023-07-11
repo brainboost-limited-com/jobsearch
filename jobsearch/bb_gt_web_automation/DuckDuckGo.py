@@ -1,24 +1,25 @@
-from bb_gt_web_automation.SearchAgent import SearchAgent
+from selenium import webdriver
+from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.options import Options
 
-class DuckDuckGo(SearchAgent):
-    
+class DuckDuckGo:
     def __init__(self):
-        super.__init__(self)
-        
-        
-    def search(self,query):
-        # Find the search box and enter the search query
-        search_box = self.driver.find_element_by_name('q')
-        search_box.send_keys(query)
-        search_box.send_keys(Keys.RETURN)
+        options = Options()
+        options.add_argument('--headless')  # Run Chrome in headless mode
+        options.add_argument('--no-sandbox')  # Bypass OS security model
+        options.add_argument('--disable-dev-shm-usage')  # Avoid issues with shared memory
+        options.add_argument('--locale=en_us')
+        self.driver = webdriver.Chrome(options=options)
+    
+    def search(self, query):
+        query = query.replace(' ','+')
+        search_results = self.driver.get("https://duckduckgo.com/?q=" + query)
+        self.driver.implicitly_wait(5)  # Wait for the results to load
+        search_results = self.driver.find_elements(By.XPATH, "//*/div[2]/h2/a")
+        result_links = [result.get_attribute("href") for result in search_results]
+        return result_links
 
-        # Wait for the results to load
-        self.driver.implicitly_wait(10)
 
-        # Find the first result link and print its href attribute
-        first_result = self.driver.find_element_by_css_selector('#links .result__url')
-        print(first_result.get_attribute('href'))
-
-        # Close the browser window
+    def close(self):
         self.driver.quit()
