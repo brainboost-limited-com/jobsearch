@@ -1,6 +1,4 @@
-
-from bb_gt_web_automation.DuckDuckGo import DuckDuckGo
-
+from ..jobsearch.bb_gt_web_automation.DuckDuckGo import DuckDuckGo
 import pytest
 
 @pytest.fixture
