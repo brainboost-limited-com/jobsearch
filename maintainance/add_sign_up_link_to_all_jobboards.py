@@ -1,4 +1,7 @@
 from tinydb import TinyDB, Query
+from jobsearch.bb_gt_web_automation.DuckDuckGo import DuckDuckGo
+
+
 
 
 db = TinyDB('jobsearch/bb_gt_web_automation/database/db.json')
