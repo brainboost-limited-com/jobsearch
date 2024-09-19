@@ -1,10 +1,10 @@
 from tinydb import TinyDB, Query
-from jobsearch.bb_gt_web_automation.DuckDuckGo import DuckDuckGo
+from bb_gt_web_automation.DuckDuckGo import DuckDuckGo
 
 
 
 
-db = TinyDB('jobsearch/bb_gt_web_automation/database/db.json')
+db = TinyDB('bb_gt_web_automation/database/db.json')
 job_board_table = db.table('job_boards')
 JobBoard = Query()
 
